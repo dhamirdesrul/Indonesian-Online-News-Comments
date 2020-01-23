@@ -1,8 +1,5 @@
 # Abusive-Languages-Detection-on-Indonesian-Online-News-Comments
 
-- tiap komentar dilabeli dengan: 0 (menyatakan komentar yang ...), 1 (...), dan 2(...)
-
-
 This dataset consists of comments that are in some of the top news stories in 2019. comments obtained from the kompas, kaskus, and detik.
 
 The following are the headline headlines taken:
