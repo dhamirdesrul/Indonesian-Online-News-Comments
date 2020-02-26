@@ -1,4 +1,4 @@
-# Abusive-Languages-Detection-on-Indonesian-Online-News-Comments
+# Abusive-Language-Detection-on-Indonesian-Online-News-Comments
 
 This dataset consists of comments that are in some of the top news stories in 2019. comments obtained from the kompas, kaskus, and detik.
 
